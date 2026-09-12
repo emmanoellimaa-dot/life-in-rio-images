@@ -1,0 +1,7 @@
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://emmanoellimaa-dot.github.io/life-in-rio-images/sitemap.xml
